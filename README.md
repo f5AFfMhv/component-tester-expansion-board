@@ -5,6 +5,8 @@ This is PCB expansion board for one of many variants of cheap electronic compone
 [Schematic Rev A](https://github.com/f5AFfMhv/component-tester-expansion-board/raw/master/Rev%20A/component_tester_adapter.pdf)
 <br>
 [Schematic Rev B](https://github.com/f5AFfMhv/component-tester-expansion-board/raw/master/Rev%20B/schematic.pdf)
+<br>
+[BOM Rev B](https://raw.githubusercontent.com/f5AFfMhv/component-tester-expansion-board/master/Rev%20B/component_tester_adapter.csv)
 
 ![Full front](https://raw.githubusercontent.com/f5AFfMhv/component-tester-expansion-board/master/Rev%20A/pics/full_front.jpg)
 
