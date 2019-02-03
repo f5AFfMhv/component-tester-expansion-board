@@ -10,9 +10,11 @@ This is PCB expansion board for one of many variants of cheap electronic compone
 
 ## Features
 
-*LiPO battery replaces 9V battery.
-*1 cell LiPO charger with microUSB connector.
-*Adjustable low battery voltage indicator.
+<ul>
+  <li>LiPO battery replaces 9V battery.</li>
+  <li>1 cell LiPO charger with microUSB connector.</li>
+  <li>Adjustable low battery voltage indicator.</li>
+</ul>
 
 ## Rev B
 
@@ -22,7 +24,7 @@ This is PCB expansion board for one of many variants of cheap electronic compone
   <li>Changed some silkscreen text and position.</li>
 </ul>
 
-## Pictures
+## Board pictures
 
 ![PCB front](https://raw.githubusercontent.com/f5AFfMhv/component-tester-expansion-board/master/Rev%20A/pics/pcb_front.jpg)
 ![PCB back](https://raw.githubusercontent.com/f5AFfMhv/component-tester-expansion-board/master/Rev%20A/pics/pcb_back.jpg)
