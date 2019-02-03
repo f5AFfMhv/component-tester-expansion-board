@@ -1,17 +1,15 @@
 # Electronic component tester expansion board
 
 This is PCB expansion board for one of many variants of cheap electronic component testers (see picture).
-![Full front](https://raw.githubusercontent.com/f5AFfMhv/component-tester-expansion-board/master/Rev A/pics/full_front.jpg)
+![Full front](https://raw.githubusercontent.com/f5AFfMhv/component-tester-expansion-board/master/Rev%20A/pics/full_front.jpg)
 
-## Features:
+## Features
 
 <ul>
   <li>LiPO battery replaces 9V battery.</li>
   <li>1 cell LiPO charger with microUSB connector.</li>
   <li>Adjustable low battery voltage indicator.</li>
 </ul>
-
-====
 
 ## Rev B
 
@@ -20,8 +18,6 @@ This is PCB expansion board for one of many variants of cheap electronic compone
   <li>Changed low battery voltage indicator voltage set resistors values.</li>
   <li>Changed some silkscreen text and position.</li>
 </ul>
-
-====
 
 ## Pictures
 
